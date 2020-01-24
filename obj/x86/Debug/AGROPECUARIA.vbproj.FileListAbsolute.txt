@@ -1,0 +1,17 @@
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\bin\Debug\AGROPECUARIA.exe
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\bin\Debug\AGROPECUARIA.pdb
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\bin\Debug\AGROPECUARIA.xml
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.Form1.resources
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.MENUPRINCIPAL.resources
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.Resources.resources
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.vbproj.GenerateResource.Cache
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.exe
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.xml
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.pdb
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\bin\Debug\AGROPECUARIA.exe.config
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.vbprojResolveAssemblyReference.cache
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.CLIENTES.resources
+C:\Users\fazave\Documents\Visual Studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.VENTAS.resources
+C:\Users\fazave\Documents\Visual Studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.FACTURA_DE_VENTA.resources
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.REGIS_PRODUCTO.resources
+C:\Users\fazave\documents\visual studio 2010\Projects\AGROPECUARIA\AGROPECUARIA\obj\x86\Debug\AGROPECUARIA.PRODUCTO_MAS_VENDIDO.resources

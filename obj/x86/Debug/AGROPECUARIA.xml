@@ -1,0 +1,284 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AGROPECUARIA
+</name>
+</assembly>
+<members>
+<member name="T:AGROPECUARIA.AGROPECUARIADataSet.CLIENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet.CLIENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet.CLIENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSetTableAdapters.CLIENTESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AGROPECUARIA.AGROPECUARIADataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AGROPECUARIA.AGROPECUARIADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AGROPECUARIA.AGROPECUARIADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSetTableAdapters.TableAdapterManager.UpdateAll(AGROPECUARIA.AGROPECUARIADataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet4.FACTURA_DE_VENTASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet4.FACTURA_DE_VENTASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet4.FACTURA_DE_VENTASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet4TableAdapters.FACTURA_DE_VENTASTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(AGROPECUARIA.AGROPECUARIADataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(AGROPECUARIA.AGROPECUARIADataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(AGROPECUARIA.AGROPECUARIADataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet4TableAdapters.TableAdapterManager.UpdateAll(AGROPECUARIA.AGROPECUARIADataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet1.VENTASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet1.VENTASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet1.VENTASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet1TableAdapters.VENTASTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(AGROPECUARIA.AGROPECUARIADataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(AGROPECUARIA.AGROPECUARIADataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(AGROPECUARIA.AGROPECUARIADataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet1TableAdapters.TableAdapterManager.UpdateAll(AGROPECUARIA.AGROPECUARIADataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet3.REGIS_PRODUCTODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet3.REGIS_PRODUCTORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet3.REGIS_PRODUCTORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet3TableAdapters.REGIS_PRODUCTOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(AGROPECUARIA.AGROPECUARIADataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(AGROPECUARIA.AGROPECUARIADataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(AGROPECUARIA.AGROPECUARIADataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet3TableAdapters.TableAdapterManager.UpdateAll(AGROPECUARIA.AGROPECUARIADataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:AGROPECUARIA.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AGROPECUARIA.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AGROPECUARIA.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet2.REGIS_PRODUCTODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet2.REGIS_PRODUCTORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet2.REGIS_PRODUCTORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet2TableAdapters.REGIS_PRODUCTOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(AGROPECUARIA.AGROPECUARIADataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(AGROPECUARIA.AGROPECUARIADataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(AGROPECUARIA.AGROPECUARIADataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AGROPECUARIA.AGROPECUARIADataSet2TableAdapters.TableAdapterManager.UpdateAll(AGROPECUARIA.AGROPECUARIADataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AGROPECUARIA.AGROPECUARIADataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
